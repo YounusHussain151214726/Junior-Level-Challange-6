@@ -42,6 +42,7 @@ body {
   grid-template-columns: 220px 220px 220px 220px 200px;
   grid-gap: 2rem;
   row-gap: 3rem;
+margin: 2rem 2rem;
 }
 
 .box1 {
